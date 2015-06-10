@@ -1,6 +1,6 @@
 <?php
 
-namespace spec\Konradha9\Tools;
+namespace spec\KamilSkowronek\Tools;
 
 use PhpSpec\ObjectBehavior;
 use Prophecy\Argument;
@@ -9,7 +9,7 @@ class PolekwadratuSpec extends ObjectBehavior
 {
     function it_is_initializable()
     {
-        $this->shouldHaveType('Konradha9\Tools\Polekwadratu');
+        $this->shouldHaveType('KamilSkowronek\Tools\Polekwadratu');
     }
     function it_should_have_setter_and_gettter()
     {

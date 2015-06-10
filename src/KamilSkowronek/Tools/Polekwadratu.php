@@ -1,6 +1,6 @@
 <?php
 
-namespace Konradha9\Tools;
+namespace KamilSkowronek\Tools;
 
 class Polekwadratu
 {
